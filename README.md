@@ -52,6 +52,18 @@ _**Info 😅**_ › If you check the official GitHub repository of Vanced Team, 
 - Offline downloading ✅
 - YouTube originals ❌
 
+## Repository Infoℹ️
+
+- _Apk Sources_ : Vanced Team Official ✅
+- _Updated_ : Yes ✅
+- _Moderator_ : @Abhijith-Sudhakaran
+- _Contact_ : [**TELEGRAM**](https://t.me/Telecat_X)
+- _Website_ : [**Website Gate**](https://bio.link/hypercat)
+
+## Status👀
+- › **Created on** - Thursday, April 25 2024
+- › **Updated on** - Friday, April 26 2024
+
 ## Screenshots 🌝
 
 _**Device : Redmi Note 10 Pro**_
